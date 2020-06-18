@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "RobotoC";
+    src: url(fonts/RobotoC/RobotoCondensed-Regular.ttf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(fonts/Roboto/Roboto-Black.ttf );
+    font-weight: 400;
+}
+
+h1 {
+    color: darkslategrey;
+    font-family: 'Roboto';
+    text-align: center;
+}
+
+.content1 {
+    color: black;
+    font-size: 24px;
+    font-family: 'RobotoC';
+    text-align: justify;
+    transform: none;
+    line-height: normal;
+    margin: 15px;
+ 
+}
+
+.img-div {
+    background-color: crimson;
+
+}
+
+.img-div-light {
+    background-color:snow;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    width: 22.75%;
+    box-shadow: 3px 3px 7px black;
+    margin: 1%;
+}
+
+html {
+    background-color: #d3d3d3;
+}
