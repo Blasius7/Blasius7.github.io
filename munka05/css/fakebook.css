@@ -1,12 +1,10 @@
 body {
     background-color: royalblue;
-    font-weight: inherit;
-    font-family:Arial;
 }
 
 h3 {
     color:whitesmoke;
-    font-family: Symbol;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h1 {
@@ -40,4 +38,5 @@ p:hover {
 
 #adatok {
     width: 180px;
+    font-family: Arial, Helvetica, sans-serif;
 }
